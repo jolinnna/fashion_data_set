@@ -1,40 +1,40 @@
-Gender,Age_range,Age,Time_spend_on_ins,interested_topic,like_friends, like_Celebrities,likef_Travel,like_Sport,like_Tech,theme_you_like,theme_Happiness,theme_Excitement,theme_Complains,theme_Depress,theme_Life philosophy
-Female,19-25,20,2,"Friends, celebrities",1,1,0,0,0,"Happiness, Excitement",1,1,0,0,0
-Male,19-25,21,0.5,"Travel, food",0,0,1,0,0,Happiness,1,0,0,0,0
-Male,19-25,21,3,"Celebrities, Sports, Friends",1,1,0,1,0,"Happiness, Excitement",1,1,0,0,0
-Male,19-25,23,0.5,"Celebrities, Sports, Friends",1,1,0,1,0,"Happiness, Excitement",1,1,0,0,0
-Male,19-25,22,1,"Fashion, memes",0,1,0,0,0,other,0,0,0,0,0
-Female,19-25,18,1,"Celebrities, Friends",1,1,0,0,0,Happiness,1,0,0,0,0
-Prefer not to say,30-40,35,0.5,"Celebrities, Friends, Tech",1,1,0,0,1,"Excitement, Life philosophy",0,1,0,0,0
-Male,19-25,21,0.5,"Celebrities, Friends, Tech",1,1,0,0,0,"Happiness, Excitement",1,1,0,0,0
-Female,15-18,18,0.5,"Celebrities, Friends, Knowledge",1,1,0,0,0,"Happiness, Excitement, Life philosophy",1,1,0,0,1
-Female,15-18,18,2,"Celebrities, Friends",1,1,0,0,0,"Happiness, Excitement",1,1,0,0,0
-Prefer not to say,19-25,21,1,"Celebrities, Sports,  Friends,  Travel",1,1,0,1,0,Happiness,1,0,0,0,0
-Female,19-25,20,3,"Friends, Food",1,0,0,0,0,"Happiness, Excitement",1,1,0,0,0
-Female,19-25,20,0.5,"Celebrities,  Friends, Travel",1,1,1,0,0,"Happiness, Excitement",1,1,0,0,0
-Male,19-25,20,1,"Celebrities, Sports,  Friends, Travel",1,1,1,1,0,"Happiness, Excitement",1,1,0,0,0
-Female,19-25,21,4,"Celebrities, Fashion, Friends, Travel",1,1,1,0,0,"Happiness, Excitement, Life philosophy",1,1,0,0,1
-Female,19-25,20,0.5,Celebrities,0,1,0,0,0,Happiness,1,0,0,0,0
-Female,19-25,21,1,Friends,1,0,0,0,0,Happiness,1,0,0,0,0
-Male,19-25,20,0.5,Friends,1,0,0,0,0,Happiness,1,0,0,0,0
-Female,19-25,22,1,Friends,1,0,0,0,0,Happiness,1,0,0,0,0
-Female,19-25,23,4,Celebrities,0,1,0,0,0,Happiness,1,0,0,0,0
-Female,19-25,21,1,Celebrities,0,1,0,0,0,Happiness,1,0,0,0,0
-Female,19-25,20,2,Friends,1,1,0,0,0,Happiness,1,0,0,0,0
-Female,19-25,21,0.5,Celebrities,0,1,0,0,0,Happiness,1,0,0,0,0
-Male,19-25,19,0.5,Friends,1,0,0,0,0,Excitement,0,1,0,0,0
-Female,19-25,21,1,Travel,0,0,1,0,0,Happiness,1,0,0,0,0
-Female,19-25,20,0.5,Friends,1,1,0,0,0,Happiness,1,0,0,0,0
-Male,19-25,22,2,"Celebrities, Sports,  Friends",1,1,1,1,0,"Happiness, Excitement",1,1,0,0,0
-Female,19-25,21,0.5,"Celebrities,  Friends, Travel",1,1,0,0,0,"Happiness, Excitement, Depress",1,1,0,1,0
-Male,19-25,23,1,"Sports,  Friends",1,1,0,1,0,"Happiness, Excitement",1,1,0,0,0
-Female,19-25,21,2,"Celebrities,  Friends, Social justice activists",1,1,0,0,0,"Happiness, Excitement, Life philosophy,",1,1,0,0,1
-Female,19-25,19,0.5,"Celebrities, Sports,  Friends",1,1,0,1,0,"Happiness, Excitement, Life philosophy",1,1,0,0,1
-Female,40-50,37,0.5,Friends,1,0,0,0,0,Happiness,1,0,0,0,0
-Female,19-25,21,0.5,"Celebrities,  Friends",1,1,0,0,0,"Happiness, Excitement",1,1,0,0,0
-Female,15-18,18,5,Friends,1,0,0,0,0,"Happiness, Excitement",1,1,0,0,0
-Male,40-50,43,0.5,Friends,1,0,0,0,0,Excitement,0,1,0,0,0
-Male,25-30,26,0.5,"Sports, Celebrities,",1,1,0,1,0,"Happiness, Excitement",1,1,0,0,0
-Female,19-25,19,0.5,"Celebrities, Travel",0,1,1,0,0,"Happiness, Life philosophy",1,0,0,0,1
-Female,19-25,21,1,"Celebrities,  Friends,  Travel",1,1,1,1,0,"Happiness, Excitement, Complains, Depress, Life philosophy",1,1,1,1,1
-Male,19-25,20,0.5, Tech,0,0,0,0,1,Happiness,1,0,0,0,0
+Gender,Age_range,Age,Time_spend_on_ins,interested_topic,theme_you_like
+Female,19-25,20,2,Friends,Happiness
+Male,19-25,21,0.5,Travel,Happiness
+Male,19-25,21,3,Celebrities,Happiness
+Male,19-25,23,0.5, Friends,Excitement
+Male,19-25,22,1,Fashion,other
+Female,19-25,18,1,Celebrities,Happiness
+Prefer not to say,30-40,35,0.5,Tech,Life philosophy
+Male,19-25,21,0.5,Tech,Excitement
+Female,15-18,18,0.5,Knowledge,Life philosophy
+Female,15-18,18,2,Celebrities,Excitement
+Prefer not to say,19-25,21,1,Sports,Happiness
+Female,19-25,20,3,Food,Happiness
+Female,19-25,20,0.5, Travel,Excitement
+Male,19-25,20,1,Celebrities,Happiness
+Female,19-25,21,4,Friends, Excitement
+Female,19-25,20,0.5,Celebrities,Happiness
+Female,19-25,21,1,Friends,Happiness
+Male,19-25,20,0.5,Friends,Happiness
+Female,19-25,22,1,Friends,Happiness
+Female,19-25,23,4,Celebrities,Happiness
+Female,19-25,21,1,Celebrities,Happiness
+Female,19-25,20,2,Friends,Happiness
+Female,19-25,21,0.5,Celebrities,Happiness
+Male,19-25,19,0.5,Friends,Excitement
+Female,19-25,21,1,Travel,Happiness
+Female,19-25,20,0.5,Friends,Happiness
+Male,19-25,22,2,Sports,Excitement
+Female,19-25,21,0.5,Celebrities,Depress
+Male,19-25,23,1,Sports,Excitement
+Female,19-25,21,2,"Celebrities,","Life philosophy,"
+Female,19-25,19,0.5,Sports,Life philosophy
+Female,40-50,37,0.5,Friends,Happiness
+Female,19-25,21,0.5,Celebrities,Excitement
+Female,15-18,18,5,Friends,Excitement
+Male,40-50,43,0.5,Friends,Excitement
+Male,25-30,26,0.5,Sports,Happiness
+Female,19-25,19,0.5,Travel,Life philosophy
+Female,19-25,21,1, Travel, Depress
+Male,19-25,20,0.5, Tech,Happiness
